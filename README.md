@@ -1,6 +1,10 @@
 # 3-column-preview
-V.1 of Frontend Mentor's 3-Column-Preview challenge, built from scratch by using an image file as a reference.
-This version is the rough draft of the completed challenge. Here's the picture for reference:
+v.1 of Frontend Mentor's 3-Column-Preview challenge, built from scratch by using an image file as a reference.
+This version is the rough draft of the completed challenge. This was a fun exercise I used to review some Bootstrap and CSS material. 
+
+Here's my solution: https://jsmitthimedhin.github.io/3-column-preview/
+
+Here's the picture for reference:
 
 ![Image of 3-Column-Preview](https://www.frontendmentor.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdz209s6jk%2Fimage%2Fupload%2Fv1617293265%2FChallenges%2Fap7h50kkrdq7zclbokox.jpg&w=828&q=75)
 
